@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "userid": admin,
+      "username": "admin",
+      "point": "88888",
+      "phone": "13912345678",
+      "usertype": "管理",
+      "password": "admin"
+    },
+    {
+      "userid": 2201,
+      "username": "张三",
+      "point": "50",
+      "phone": "13912345671",
+      "usertype": "用户",
+      "password": "123"
+    }
+ ]
+}
